@@ -1,2 +1,4 @@
-# Initial page
+# Boshlash
+
+![](.gitbook/assets/cover.jpg)
 

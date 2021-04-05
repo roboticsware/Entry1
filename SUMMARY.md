@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Boshlash](README.md)
+* [Mundarija](mundarija.md)
+* [Salom, Entry!](salom-entry.md)
 
