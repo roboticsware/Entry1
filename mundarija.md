@@ -16,3 +16,5 @@
 
    **6-misol: Parolni kiritib xazina qutisıni ochamiz – Kırıtısh va chiqarish**
 
+   **7-misol: “Ko’rsichqon” o’yinini yaratib ko’ramiz – Jamlash**
+

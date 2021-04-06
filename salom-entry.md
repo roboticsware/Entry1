@@ -16,7 +16,9 @@ _Entry mavjud qiyin dasturiy yondashuvni emas, sodda va osonlikcha qabul qilsa b
 
 Yosh bolalar yaxshi tanish milliy obyetlarni ishlatib qiziqarli dasturlash mumkin.
 
-![](.gitbook/assets/1-objects.png)
+![](.gitbook/assets/objects-selection.png)
+
+![http://naver.me/5PSfNscs](.gitbook/assets/game-example.png)
 
 #### Python dasturlashga ko'prik
 
@@ -24,7 +26,13 @@ Menudagi 'Entry Python' ni tanlab blok kodlarni Python tiliga aylantirib ko'rsat
 
 ![](.gitbook/assets/python.png)
 
-#### Python dasturlashga ko'prik
+#### Arduino dasturlashga ko'prik
 
-Menudagi 'Entry Python' ni tanlab blok kodlarni Python tiliga aylantirib ko
+Entrydagi Arduino uchun bloklarni ishlatib Arduino ni blok koding orqali o'rganish mumkin. Entry ichida blok kodingdan boshlab haqiqiy qurilmani boshqaradigan dasturlashgacha ko'prik bo'lish mumkin.
+
+![](.gitbook/assets/arduino-coding.png)
+
+#### Arduino dasturlashga ko'prik
+
+Entrydagi Arduino uchun blokla
 
