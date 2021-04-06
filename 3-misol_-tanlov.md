@@ -14,7 +14,9 @@ Changyutgich robotini ko'rganmisiz? Chang yutgich roboti oldinga qarab harakatla
 
 ### 4. Changyutgich robot poldan chiqib ketib qayergadir ketayapti. 
 
-Changyutgich robot poldan chiqib ketmasligi uchun nima qilishimiz kerak? Ha,tog’ri shart qo’yishimiz kerak. Qizil chiziqda aks etilgan sirtqi qism – bu devor. Shunaqa qilib changyutgich robot devorga teggan paytida poldan chiqib ketmaydigan qilib kodni tuzib ko’ramiz. “Oqim” kategoriyasidagi “Agar – bo’lsa” bloki bilan “Qaror” kategoriyasidagi “—ga tegganmi?” blokini ketma-ket qo’yamiz. Shu joyda biroz to’xtang! Changyutgich robot pol to’liq tozalangunicha uzluksiz harakatlanishi kerak. Shuning uchun “Davomiy takrorlash”ni bloklarning ichiga kirgizamiz. safiga qo’shamiz. ※ Foydali maslahat: “Agar – bo’lsa” blokiga shart blokini kirgizgan paytingizda blokning chap uchini birlashtirsangiz blok oson yig’iladi.
+Changyutgich robot poldan chiqib ketmasligi uchun nima qilishimiz kerak? Ha,tog’ri shart qo’yishimiz kerak. Qizil chiziqda aks etilgan sirtqi qism – bu devor. Shunaqa qilib changyutgich robot devorga teggan paytida poldan chiqib ketmaydigan qilib kodni tuzib ko’ramiz. “Oqim” kategoriyasidagi “Agar – bo’lsa” bloki bilan “Qaror” kategoriyasidagi “—ga tegganmi?” blokini ketma-ket qo’yamiz. Shu joyda biroz to’xtang! Changyutgich robot pol to’liq tozalangunicha uzluksiz harakatlanishi kerak. Shuning uchun “Davomiy takrorlash”ni bloklarning ichiga kirgizamiz. safiga qo’shamiz. 
+
+※ Foydali maslahat: “Agar – bo’lsa” blokiga shart blokini kirgizgan paytingizda blokning chap uchini birlashtirsangiz blok oson yig’iladi.
 
 ### 5. “Boshlash”ni bosib changyutgich robot iflos polning burchaklarini tozalayaptimi to’liq tekshirib ko’ramiz.
 

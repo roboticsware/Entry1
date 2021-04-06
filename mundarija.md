@@ -18,3 +18,5 @@
 
    **7-misol: “Ko’rsichqon” o’yinini yaratib ko’ramiz – Jamlash**
 
+
+

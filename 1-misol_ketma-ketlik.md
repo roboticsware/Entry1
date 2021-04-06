@@ -1,5 +1,5 @@
 ---
-description: Kuchukcha bilan mushukcha salomlashadi – ketma-ketlik
+description: Kuchukcha bilan mushukcha salomlashadi – Ketma-ketlik
 ---
 
 # 1-misol\_"Ketma-ketlik"
