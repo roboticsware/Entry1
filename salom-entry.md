@@ -10,6 +10,12 @@
 
 _Entry mavjud qiyin dasturiy yondashuvni emas, sodda va osonlikcha qabul qilsa bo’ladigan dasturiy yondashuvni tanlashi orqali, endi boshlaganlar va yosh bolalar ham dasturlashni o’rgansa bo’ladigan muhitni yaratib beradi._
 
+## Obyekt bu nima?
+
+Obyekt deganda,‘Ko’rsatmalar orqali harakatga keladigan qahramonlar, orqa fonlar, yozuvlar va shunga o’xshagan narsalar’ tushuniladi.
+
+![](.gitbook/assets/entry_bot_obyekt.png)
+
 ## Entryning yaxshi xislatlari
 
 ### Entry ichki milliy obyetlar

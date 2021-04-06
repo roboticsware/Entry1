@@ -4,9 +4,9 @@
 2. \*\*\*\*[**Entryning Interfeysi**](entryning-interfeysi.md)\*\*\*\*
 3.  **Misol orqali o’rganish**
 
-   **1-misol: Kuchukcha bilan mushukcha salomlashadi – ketma-ketlik**
+   \*\*\*\*[**1-misol**](1-misol_ketma-ketlik.md)**: Kuchukcha bilan mushukcha salomlashadi – ketma-ketlik**
 
-   **2-misol: Gul bargi bilan gul yasaymiz – Takrorlash**
+   \*\*\*\*[**2-misol**](2-misol_-takrorlash.md)**: Gul bargi bilan gul yasaymiz – Takrorlash**
 
    **3-misol: Changyutgich roboti to’siqni uchratsa nima bo’ladi? - Tanlov**
 
