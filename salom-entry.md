@@ -20,6 +20,8 @@ Yosh bolalar yaxshi tanish milliy obyetlarni ishlatib qiziqarli dasturlash mumki
 
 ![http://naver.me/5PSfNscs](.gitbook/assets/game-example.png)
 
+[http://naver.me/5PSfNscs](http://naver.me/5PSfNscs)
+
 #### Python dasturlashga ko'prik
 
 Menudagi 'Entry Python' ni tanlab blok kodlarni Python tiliga aylantirib ko'rsatadi hamda u yerdan Python tilini ishlatib dasturlash mumkin. Entry ichida blok kodingdan boshlab haqiqiy dasturlash tiligacha o'tish mumkin.
