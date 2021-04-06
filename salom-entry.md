@@ -18,9 +18,7 @@ Yosh bolalar yaxshi tanish milliy obyetlarni ishlatib qiziqarli dasturlash mumki
 
 ![](.gitbook/assets/objects-selection.png)
 
-![http://naver.me/5PSfNscs](.gitbook/assets/game-example.png)
-
-[http://naver.me/5PSfNscs](http://naver.me/5PSfNscs)
+<a href="http://naver.me/5PSfNscs">![http://naver.me/5PSfNscs](.gitbook/assets/game-example.png)</a>
 
 #### Python dasturlashga ko'prik
 
