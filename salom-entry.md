@@ -8,7 +8,7 @@
 
 **Blok kodingning kamchiligi esa,** cheklangan ifodalardir. Bloklardan foydalanilishi bois taqdim etiladigan blok\(buyruqlar\)dan mustasno tarzda muayyan sozlamalar, turli xil ifodalardan foydalanib bo’lmaydi.
 
-Entry mavjud qiyin dasturiy yondashuvni emas, sodda va osonlikcha qabul qilsa bo’ladigan dasturiy yondashuvni tanlashi orqali, endi boshlaganlar va yosh bolalar ham dasturlashni o’rgansa bo’ladigan muhitni yaratib beradi.
+_Entry mavjud qiyin dasturiy yondashuvni emas, sodda va osonlikcha qabul qilsa bo’ladigan dasturiy yondashuvni tanlashi orqali, endi boshlaganlar va yosh bolalar ham dasturlashni o’rgansa bo’ladigan muhitni yaratib beradi._
 
 ### Entryning yaxshi xislatlari
 
@@ -16,5 +16,15 @@ Entry mavjud qiyin dasturiy yondashuvni emas, sodda va osonlikcha qabul qilsa bo
 
 Yosh bolalar yaxshi tanish milliy obyetlarni ishlatib qiziqarli dasturlash mumkin.
 
+![](.gitbook/assets/1-objects.png)
 
+#### Python dasturlashga ko'prik
+
+Menudagi 'Entry Python' ni tanlab blok kodlarni Python tiliga aylantirib ko'rsatadi hamda u yerdan Python tilini ishlatib dasturlash mumkin. Entry ichida blok kodingdan boshlab haqiqiy dasturlash tiligacha o'tish mumkin.
+
+![](.gitbook/assets/python.png)
+
+#### Python dasturlashga ko'prik
+
+Menudagi 'Entry Python' ni tanlab blok kodlarni Python tiliga aylantirib ko
 
