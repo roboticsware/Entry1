@@ -28,11 +28,13 @@ Menudagi 'Entry Python' ni tanlab blok kodlarni Python tiliga aylantirib ko'rsat
 
 #### Arduino dasturlashga ko'prik
 
-Entrydagi Arduino uchun bloklarni ishlatib Arduino ni blok koding orqali o'rganish mumkin. Entry ichida blok kodingdan boshlab haqiqiy qurilmani boshqaradigan dasturlashgacha ko'prik bo'lish mumkin.
+Entrydagi Arduino uchun tayyor bo'lgan ichki bloklarni ishlatib Arduino ni blok koding orqali o'rganish mumkin. Entry ichida blok kodingdan boshlab haqiqiy qurilmani boshqaradigan dasturlashgacha ko'prik bo'lish mumkin.
 
 ![](.gitbook/assets/arduino-coding.png)
 
-#### Arduino dasturlashga ko'prik
+#### Fizikal komputing uchun 60tadan ziyod qurilmalarni foydalanish
 
-Entrydagi Arduino uchun blokla
+Entry bilan 60tadan ziyod koding ta'lim uchun qurilmalarga ulanib dasturlashni o'rganish mumkin. Entry orqali qurilmalarni boshqaradigan dasturlashni o'rganish mumkin.
+
+![](.gitbook/assets/hardwares.gif)
 
