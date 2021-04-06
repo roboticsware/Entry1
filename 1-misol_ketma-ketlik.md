@@ -2,7 +2,7 @@
 description: Kuchukcha bilan mushukcha salomlashadi – ketma-ketlik
 ---
 
-# 1-misol\_‘Ketma-ketlik’
+# 1-misol\_"Ketma-ketlik"
 
 Maktabda do’stlaringiz bilan rangli qog’ozdan narsalar yasab ko’rganmisiz? Unda qog’ozdan narsa yasash kitobiga qarab, tartib bilan sekin-asta oxirgi natijani tayyor qilib boramiz. Shu tarzda ketma-ketlikda tartib bilan bajarilgan amal _**‘Ketma-ketlik’**_ deb ataladı. Ushbu darsda ketma-ketlik amalidan foydalanib kuchuk bilan mushukni gaplashtirib ko’ramiz.
 
