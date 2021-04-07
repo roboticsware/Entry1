@@ -2,7 +2,7 @@
 description: Changyutgich roboti to’siqni uchratsa nima bo’ladi? - Tanlov
 ---
 
-# 3-misol\_"Tanlov"
+# 3-misol\_"Shart"
 
 Changyutgich robotini ko'rganmisiz? Chang yutgich roboti oldinga qarab harakatlanayotganida to'siqni uchratsa, harakatini o'zgartiradi. Ushbu darsda 'Tanlash' tushunchasidan foydalanib, changyutgich robotiga xonaning burchaklarini tozalashda yordam berib ko’ramiz.
 
