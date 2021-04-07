@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Boshlash](README.md)
+* [Asta-asta ergashib o'rganadigan Entry dasturlash](README.md)
 * [Mundarija](mundarija.md)
 * [Salom, Entry!](salom-entry.md)
 * [Entryning Interfeysi](entryning-interfeysi.md)
