@@ -10,13 +10,13 @@
 
    \*\*\*\*[**3-misol**](3-misol_shart.md#2-chang-yutgich-robot-obyektini-tanlang-va-kodni-quyidagi-rasmga-oxshatib-qoying)**: Changyutgich roboti to’siqni uchratsa nima bo’ladi? - Shart**
 
-   **4-misol: O’zingizning rasm taxtangizni yasang – Xabar**
+   \*\*\*\*[**4-misol**](4-misol_xabar.md)**: O’zingizning rasm taxtangizni yasang – Xabar**
 
-   **5-misol: Necha marta qo’lni yoyib sakirganligini sanab ko’ramiz – O’zgaruvchi** 
+   \*\*\*\*[**5-misol**](5-misol_ozgaruvchi.md)**: Necha marta qo’lni yoyib sakirganligini sanab ko’ramiz – O’zgaruvchi** 
 
-   **6-misol: Parolni kiritib xazina qutisıni ochamiz – Kırıtısh va chiqarish**
+   \*\*\*\*[**6-misol**](6-misol_kiritish_chiqarish.md)**: Parolni kiritib xazina qutisıni ochamiz – Kırıtısh va chiqarish**
 
-   **7-misol: “Ko’rsichqon” o’yinini yaratib ko’ramiz – Jamlash**
+   \*\*\*\*[**7-misol**](7-misol_jamlash.md)**: “Ko’rsichqon” o’yinini yaratib ko’ramiz – Jamlash**
 
 
 

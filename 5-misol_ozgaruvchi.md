@@ -8,9 +8,13 @@ Bola qo’lini yoyib sakrab sport bilan shug’ullanmoqchi. Turli xil obyektlarn
 
 ### 1. Ekranda “Sportchi bola” obyekti ko’rsatilgan.
 
+![](.gitbook/assets/005_001.png)
 
+### 2. “Sichqonchani bosganda” 
 
-### 2. “Sichqonchani bosganda” bola qo’lini yoyib sakray oladigandek qilib \[Shakl\] sahifasida joylashgan shakllardan foydalanamiz. Quyidagi kabi shakllarni almashtirib qo’lni yoyib sakrashni ifodalaymiz.
+bola qo’lini yoyib sakray oladigandek qilib \[Shakl\] sahifasida joylashgan shakllardan foydalanamiz. 
+
+Quyidagi kabi shakllarni almashtirib qo’lni yoyib sakrashni ifodalaymiz.
 
 
 
