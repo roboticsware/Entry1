@@ -6,11 +6,7 @@ Bu kitob hamma be’pul dasturiy ta’minot ta’limini olishga yordam berish uc
 
 Ushbu darslikni ishlab chiqishda yaqindan yordam berganlarga o’z minnadorchiligimizni bildiramiz.
 
-
-
-Asl nusxa: Entry // NAVER Connect Foundation 
-
-Nashriyot: E4NET Co., Ltd \(Toshkent\)  // Haqiqat
+![](.gitbook/assets/.png.png)
 
 Kirish Yozuvchi : JeongJun Lee 
 
