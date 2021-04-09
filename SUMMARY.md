@@ -12,5 +12,5 @@
 * [6-misol\_"Kiritish va chiqarish"](6-misol_kiritish_chiqarish.md)
 * [7-misol\_"Jamlash"](7-misol_jamlash.md)
 * [Oxirgi xabar](oxirgi-xabar.md)
-* [muqova\_orqa](untitled.md)
+* [Orqa muqova](orqa_muqova.md)
 

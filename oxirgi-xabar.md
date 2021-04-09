@@ -8,11 +8,17 @@ Ushbu darslikni ishlab chiqishda yaqindan yordam berganlarga o’z minnadorchili
 
 ![](.gitbook/assets/.png.png)
 
-Kirish Yozuvchi : JeongJun Lee 
+Kirish Yozuvchi : JJ Lee 
 
 Tarjimon: Abdiualieva Gulshat 
 
-Tekshiruvchi: JeongJun Lee, Najimova Altinay 
+Tekshiruvchi: JJ Lee, Najimova Altinay 
+
+Asl mualliflik huquqi: CC-BY
+
+Asl nomi: [차근차근 따라하며 배우는 엔트](https://playentry.org/material)
+
+O'zg'artirilgan mazmun : Kirsh bo'lim qo'shish,  O'zbek tiliga tarjima qilingan
 
 Hujjatlar o'zgartirish tarixi : 2021.4.21 BIrinchi nashr
 
