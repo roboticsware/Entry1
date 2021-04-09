@@ -26,5 +26,5 @@ Hujjatlar o'zgartirish tarixi : 2021.4.21 BIrinchi nashr
 
 ![](.gitbook/assets/by-nc-sa.png)
 
-Copyright © NAVER Connect Foundation. Some Rights Reserved. Ushbu hujjatning mazmuni "Creative Commons" Attribution 2.0 Koreya litsenziyasi ostida ishlatiladi.. [http://creativecommons.org/licenses/by/2.0/kr/](http://creativecommons.org/licenses/by/2.0/kr/)
+Ushbu hujjatning mazmuni "Creative Commons" Attribution 2.0 Koreya litsenziyasi ostida ishlatiladi.. [http://creativecommons.org/licenses/by/2.0/kr/](http://creativecommons.org/licenses/by/2.0/kr/)
 
