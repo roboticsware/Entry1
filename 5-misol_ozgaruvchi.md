@@ -8,7 +8,7 @@ Bola qo’lini yoyib sakrab sport bilan shug’ullanmoqchi. Turli xil obyektlarn
 
 ### 1. Ekranda “Sportchi bola” obyekti ko’rsatilgan.
 
-![](.gitbook/assets/005_001.png)
+![](.gitbook/assets/005_001%20%281%29.png)
 
 ### 2. “Sichqonchani bosganda” 
 
