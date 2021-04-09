@@ -16,7 +16,7 @@ Tekshiruvchi: JJ Lee, Najimova Altinay
 
 Asl mualliflik huquqi: CC-BY
 
-Asl nomi: [차근차근 따라하며 배우는 엔트](https://playentry.org/material)
+Asl nomi: [차근차근 따라하며 배우는 엔트리](https://playentry.org/material)
 
 O'zg'artirilgan mazmun : Kirsh bo'lim qo'shish,  O'zbek tiliga tarjima qilingan
 
