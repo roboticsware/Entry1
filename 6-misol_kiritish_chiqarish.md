@@ -8,15 +8,21 @@ Uyingizga kirgan paytingizda kalit o’rniga foydalaniladigan elektron qulfning 
 
 ### 1. Ekranda “Cho’l” bilan “Xazina qutisi” berilgan.
 
+![](.gitbook/assets/006_001.png)
+
 ### 2. O’zgaruvchidan foydalanib xazina qutisini ochib ko’ramiz. 
 
 Xazina qutisining parolini saqlaydigan joy – “Parol qiymati” degan o’zgaruvchi kerak bo’ladi. “Xususiyat” sahifasiga kirib o’zgaruvchini qo’shishni bosib “Parol qiymati” degan o’zgaruvchini yaratamiz.
 
-### 3. “Parol qiymati” o’zgaruvchisi ekranda ko’rsatilsa bo’lmaganligi sababli uni yashirib, \(2\) xohlagan parol qiymatini tuzamiz.
+![](.gitbook/assets/006_002.png)
 
-\(3\) Hamda parolni so'raydigan "~ni so'rab javobini kutish" blokini ketma-ket qoyamiz.\(4\)
+### 3. “Parol qiymati” o’zgaruvchisi ekranda ko’rsatilsa bo’lmaganligi sababli uni yashirib,\(②\) xohlagan parol qiymatini tuzamiz.
 
-To’xtang! Nima uchun o’zgaruvchidan foydalanamiz? 1234 – Parol qiymati
+\(③\) Hamda parolni so'raydigan "~ni so'rab javobini kutish" blokini ketma-ket qoyamiz.\(④\)
+
+![](.gitbook/assets/006_003.png)
+
+![](.gitbook/assets/006_004.png)
 
 O’yinlardagi “ball”, raqam daftarchasidagi “Mening ismim” ga o’xshagan ma’lumotlarni kompyuter yodida saqlashi uchun nima qilishimiz kerak? “O’zgaruvchi” shunaqa ma’lumotlarni saqlash mumkin bo’lgan joy. Xazina qutisini ochish uchun o’zingiz bosgan parol bilan “parol qiymati”ni solishtirishingiz kerak, tog’rimi? Shunaqa qilish uchun kompyuter parol qiymatini yodida saqlab turishi kerakligi sababli o’zgaruvchidan foydalaniladi. O’zgaruvchiga erkin ravishda nom qo’yishingiz mumkin. Masalan, hozir bizlar yasayotgan xazina qutisining algoritmida “Parol qiymati” – bu o’zgaruvchining nomi.Shuning dek ushbu o’zgaruvchi ichiga son yoki belgini bir marta bir donadan saqlashingiz mumkin.
 
@@ -24,13 +30,21 @@ O’yinlardagi “ball”, raqam daftarchasidagi “Mening ismim” ga o’xshag
 
 Parolni tog’ri kiritsak xazina qutisini ochishimiz mumkin, notog’ri kiritsak parolni qaytadan kiritishimiz kerak bo’ladi. Bu ikki xil holatni avval o’rgangan “Shart” belgisidan foydalanib ifodalashimiz mumkin.
 
+![](.gitbook/assets/006_005.png)
+
 ### 5. Agar Parolni tog’ri kiritgan paytingizda, qarsak ovozi bilan birga xazinaga ega bo’lganlik haqida bildiradigan gapni qo’shib ko’ramizmi? 
 
-“Ovoz” bo’limiga borsangiz, oldindan “Qarsaklar” ovozi bilan “Ogohlantiruvchi signal” ovozi qo'shilgan. \[Ovoz\] kategoriyasining \[Ovozni -qaytadan qo'yish\] blogi orqali qarsak ovozi chiqadigandek quyidagi kabi yig’ib ko’ramiz.
+“Ovoz” bo’limiga borsangiz, oldindan “Qarsaklar”\(Standing Ovation\) ovozi bilan “Ogohlantiruvchi signal” \(Hazard Warning\) ovozi qo'shilgan. \[Ovoz\] kategoriyasining \[Ovozni -qaytadan qo'yish\] blogi orqali qarsak ovozi chiqadigandek quyidagi kabi yig’ib ko’ramiz.
+
+![](.gitbook/assets/006_006.png)
 
 ### 6. \[Ko’rinish\] kategoriyasidagi gapirish blokidan foydalanib “Xazinaga ega bo’ldingiz ” gapini qo’shing.
+
+![](.gitbook/assets/006_007.png)
 
 ### 7. Oxirgi marta parolni to’g’ri kirita olmagan paytingizda 
 
 “ogohlantiruvchi signal” ovoz ta’siri bilan “Olish Muvaffaqiyatsizlik!!” ni bildiradigan qilib quyidagi kabi bloklarni ketma-ket qo’ying.
+
+![](.gitbook/assets/006_008.png)
 
