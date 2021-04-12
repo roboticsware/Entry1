@@ -10,23 +10,23 @@ Ko’ngil ochar joyida bir marta bo’lsa ham qilib ko’rgan o’yiningiz “Ko
 
 ![](.gitbook/assets/007_001.png)
 
-### 2. Rezina bolgʻachasi sichqoncha ko’rsatkichini orqasidan davomiy ergashadigan qilib kodni ketma-ket qoying. 
+### 2. Rezina bolgʻacha sichqoncha ko’rsatkichini orqasidan davomiy ergashadigan qilib kodni ketma-ket qoying. 
 
-#### Sichqonchani boskaningizda, rezina bolgʻachasi chap tarafga urganini aks etadi.
+#### Sichqonchani boskaningizda, rezina bolgʻacha chap tarafga urganini aks etadi.
 
 ![](.gitbook/assets/007_002.png)
 
 ### 3. Avvalo, “Ko’rsichqon” obyektini tanlaymiz. 
 
-“Ko’rsichqon” harakatga kelsagina rezina bolgʻachasi bilan ko’rsichqonni urish zavqli, tog’rimi? Buning uchun ko’rsichqon shakli ko’rinish va bekinish amallarini qilishi kerak. Ko’rsichqon harakatsizlikdan chiqishi kerak, shuning uchun \[Hisob\] kategoriyasidagi “-dan -o’rtasida harakatsizlik” blokini qo’yamiz.
+“Ko’rsichqon” harakatga kelsagina rezina bolgʻacha bilan ko’rsichqonni urish zavqli, tog’rimi? Buning uchun ko’rsichqon shakli ko’rinish va bekinish amallarini qilishi kerak. Ko’rsichqon harakatsizlikdan chiqishi kerak, shuning uchun \[Hisob\] kategoriyasidagi “-dan -o’rtasida harakatsizlik” blokini qo’yamiz.
 
 ![](.gitbook/assets/007_003.png)
 
-### 4. Rezina bolg’achadan urilgan paytlarida “Ko’rsichqon” tarafidan urilganligini fikrlash  kerak. Binobarin “Urdi” xabarini yaratib rezina bolg’acha urgan paytida berilgan xabarni jo’natsak, ko’rsichqon rezina bolg’acha bilan urildimi fikrlay oladigan qilib kodni yasab ko’ramiz.
+### 4. Rezina bolgʻachadan urilgan paytlarida “Ko’rsichqon” tarafidan urilganligini fikrlash  kerak. Binobarin “Urdi” xabarini yaratib rezina bolgʻacha urgan paytida berilgan xabarni jo’natsak, ko’rsichqon rezina bolgʻacha bilan urildimi fikrlay oladigan qilib kodni yasab ko’ramiz.
 
 ![](.gitbook/assets/007_004.png)
 
-### 5. Rezina bolgʻachasi bilan ko’rsichqonni urganimizda qanday ishlar ro’y berishi kerak? 
+### 5. Rezina bolgʻacha bilan ko’rsichqonni urganimizda qanday ishlar ro’y berishi kerak? 
 
 Ovoz chiqadigan qilib ovozni qo’shib ko’ramiz. “Ovoz” sahifasiga kirib “Ovoz qo’shish”ni bosgandan so’ng “Toy” degan ovozni izlab qo’shamiz. Endi ko’rsichqonni urganimizda ko’rsichqonning shaklini yashirib ballga 1tadan qo’shadigan qilib quyidagi kabi bloklarni yig’ib ko’ramiz.
 
@@ -48,7 +48,7 @@ obyekt ro’yxatidagi ko’rsichqon obyekti ustiga sichqonchaning o’ng tarafid
 
 ### 8. Nusxalangan ko’rsichqonlarni ekranga navbat bilan joylashtirib, 
 
-rezina bolgʻachasi obyekti ro’yxatning eng yuqorisida joylashadigan qilib tepa tarafga olib kelib qo’yamiz.
+rezina bolgʻacha obyekti ro’yxatning eng yuqorisida joylashadigan qilib tepa tarafga olib kelib qo’yamiz.
 
 ![](.gitbook/assets/007_008.png)
 
