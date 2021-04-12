@@ -6,7 +6,7 @@ Bu kitob hamma be’pul dasturiy ta’minot ta’limini olishga yordam berish uc
 
 Ushbu darslikni ishlab chiqishda yaqindan yordam berganlarga o’z minnadorchiligimizni bildiramiz.
 
-![](.gitbook/assets/.png.png)
+![](.gitbook/assets/_-.png)
 
 Kirish Yozuvchi : JJ Lee
 

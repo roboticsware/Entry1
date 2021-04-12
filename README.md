@@ -1,4 +1,4 @@
-# Asta-asta ergashib o'rganadigan Entry dasturlash
+# Qadamma-qadam o'zlashtirib, o'rganadigan "Entry" dasturlash
 
 ![](.gitbook/assets/cover.jpg)
 
