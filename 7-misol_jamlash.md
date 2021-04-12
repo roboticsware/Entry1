@@ -6,7 +6,7 @@ description: “Ko’rsichqon” o’yinini yaratib ko’ramiz – Jamlash
 
 Ko’ngil ochar joyida bir marta bo’lsa ham qilib ko’rgan o’yiningiz “Ko’rsichqon” o’yinini yasab ko’ramiz. O’tgan darslarda o’rgangan “Ketma-ketlik”, “Takrorlash”, “Shart”, “Xabar”, “O’zgaruvchi”dan foydalanib qiziqarli “Ko’rsichqon” oyinini yaratib ko’ramiz.
 
-### 1. Obyekt ro’yxatidan rezina bolgʻachasi obyektini tanlab rezina bolgʻachaning yo’nalishini bosib chap tarafga ozgina engashtiramiz.
+### 1. Obyekt ro’yxatidan rezina bolgʻacha obyektini tanlab rezina bolgʻachaning yo’nalishini bosib chap tarafga ozgina engashtiramiz.
 
 ![](.gitbook/assets/007_001.png)
 
