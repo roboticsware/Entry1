@@ -22,9 +22,7 @@ Ko’ngil ochar joyida bir marta bo’lsa ham qilib ko’rgan o’yiningiz “Ko
 
 ![](.gitbook/assets/007_003.png)
 
-### 4. Rezina bolgʻachasi urgan paytlarida “Ko’rsichqon” tarafidan urildimi fikrlashi kerak.
-
-Binobarin “Urdi” xabarini yaratib rezina bolgʻachasi urgan paytida berilgan xabarni jo’natsak, ko’rsichqon rezina bolgʻachasi bilan urildimi fikrlay oladigan qilib kodni yasab ko’ramiz.
+### 4. Rezina bolg’achadan urilgan paytlarida “Ko’rsichqon” tarafidan urilganligini fikrlash  kerak. Binobarin “Urdi” xabarini yaratib rezina bolg’acha urgan paytida berilgan xabarni jo’natsak, ko’rsichqon rezina bolg’acha bilan urildimi fikrlay oladigan qilib kodni yasab ko’ramiz.
 
 ![](.gitbook/assets/007_004.png)
 
