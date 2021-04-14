@@ -18,21 +18,23 @@ Xazina qutisining parolini saqlaydigan joy – “Parol qiymati” degan o’zga
 
 ### 3. “Parol qiymati” o’zgaruvchisi ekranda ko’rsatilsa bo’lmaganligi sababli uni yashirib,\(②\) xohlagan parol qiymatini tuzamiz.
 
-\(③\) Hamda parolni so'raydigan "~ni so'rab javobini kutish" blokini ketma-ket qoyamiz.\(④\)
+\(③\) Hamda parolni so'raydigan "~ni so'rab javobini kutish" blokini ketma-ket qo'yamiz.\(④\)
 
 ![](.gitbook/assets/006_003.png)
 
 ![](.gitbook/assets/006_004.png)
 
-O’yinlardagi “ball”, raqam daftarchasidagi “Mening ismim” ga o’xshagan ma’lumotlarni kompyuter yodida saqlashi uchun nima qilishimiz kerak? “O’zgaruvchi” shunaqa ma’lumotlarni saqlash mumkin bo’lgan joy. Xazina qutisini ochish uchun o’zingiz bosgan parol bilan “parol qiymati”ni solishtirishingiz kerak, tog’rimi? Shunaqa qilish uchun kompyuter parol qiymatini yodida saqlab turishi kerakligi sababli o’zgaruvchidan foydalaniladi. O’zgaruvchiga erkin ravishda nom qo’yishingiz mumkin. Masalan, hozir bizlar yasayotgan xazina qutisining algoritmida “Parol qiymati” – bu o’zgaruvchining nomi.Shuning dek ushbu o’zgaruvchi ichiga son yoki belgini bir marta bir donadan saqlashingiz mumkin.
+O’yinlardagi “ball”, raqam daftarchasidagi “Mening ismim” ga o’xshagan ma’lumotlarni kompyuter yodida saqlashi uchun nima qilishimiz kerak? “O’zgaruvchi” shunaqa ma’lumotlarni saqlash mumkin bo’lgan joy. Xazina qutisini ochish uchun o’zingiz bosgan parol bilan “parol qiymati”ni solishtirishingiz kerak, to'g’rimi? Shunaqa qilish uchun kompyuter parol qiymatini yodida saqlab turishi kerakligi sababli o’zgaruvchidan foydalaniladi. 
+
+O’zgaruvchiga erkin ravishda nom qo’yishingiz mumkin. Masalan, hozir bizlar yasayotgan xazina qutisining algoritmida “Parol qiymati” – bu o’zgaruvchining nomi. Shuningdek ushbu o’zgaruvchi ichiga son yoki belgini bir marta bir donadan saqlashingiz mumkin.
 
 ### 4. Bizlar parolni bosganimizda qanday vaziyat kelib chiqadi? 
 
-Parolni tog’ri kiritsak xazina qutisini ochishimiz mumkin, notog’ri kiritsak parolni qaytadan kiritishimiz kerak bo’ladi. Bu ikki xil holatni avval o’rgangan “Shart” belgisidan foydalanib ifodalashimiz mumkin.
+Parolni to'g’ri kiritsak xazina qutisini ochishimiz mumkin, noto'g’ri kiritsak parolni qaytadan kiritishimiz kerak bo’ladi. Bu ikki xil holatni avval o’rgangan “Shart” belgisidan foydalanib ifodalashimiz mumkin.
 
-![](.gitbook/assets/006_005.png)
+![](.gitbook/assets/p.25_01-_-.png)
 
-### 5. Agar Parolni tog’ri kiritgan paytingizda, qarsak ovozi bilan birga xazinaga ega bo’lganlik haqida bildiradigan gapni qo’shib ko’ramizmi? 
+### 5. Agar Parolni to'g’ri kiritgan paytingizda, qarsak ovozi bilan birga xazinaga ega bo’lganlik haqida bildiradigan gapni qo’shib ko’ramizmi? 
 
 “Ovoz” bo’limiga borsangiz, oldindan “Qarsaklar”\(Standing Ovation\) ovozi bilan “Ogohlantiruvchi signal” \(Hazard Warning\) ovozi qo'shilgan. \[Ovoz\] kategoriyasining \[Ovozni -qaytadan qo'yish\] blogi orqali qarsak ovozi chiqadigandek quyidagi kabi yig’ib ko’ramiz.
 

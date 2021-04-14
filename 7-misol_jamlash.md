@@ -18,7 +18,7 @@ Ko’ngil ochar joyida bir marta bo’lsa ham qilib ko’rgan o’yiningiz “Ko
 
 ### 3. Avvalo, “Ko’rsichqon” obyektini tanlaymiz. 
 
-“Ko’rsichqon” harakatga kelsagina rezina bolgʻacha bilan ko’rsichqonni urish zavqli, tog’rimi? Buning uchun ko’rsichqon shakli ko’rinish va bekinish amallarini qilishi kerak. Ko’rsichqon harakatsizlikdan chiqishi kerak, shuning uchun \[Hisob\] kategoriyasidagi “-dan -o’rtasida harakatsizlik” blokini qo’yamiz.
+“Ko’rsichqon” harakatga kelsagina rezina bolgʻacha bilan ko’rsichqonni urish zavqli, to'g’rimi? Buning uchun ko’rsichqon shakli ko’rinish va bekinish amallarini qilishi kerak. Ko’rsichqon harakatsizlikdan chiqishi kerak, shuning uchun \[Hisob\] kategoriyasidagi “-dan -o’rtasida harakatsizlik” blokini qo’yamiz.
 
 ![](.gitbook/assets/007_003.png)
 
@@ -34,7 +34,7 @@ Ovoz chiqadigan qilib ovozni qo’shib ko’ramiz. “Ovoz” sahifasiga kirib �
 
 ### 6. Ko’rsichqonni urganingizda ball ko’payadigan qilib bajarmoqchi bo’lsangiz dasturga ballni saqlash mumkin bo’lgan joy kerak bo’ladi. Shuning uchun O’zgaruvchi “Ball”ni qo’shing.
 
-※ Fo’ydali maslahat\) O’zgaruvchini qo’shsangiz ijro ekranida o’zgaruvchan shakl paydo bo’ladi. Bu o’zgaruvchan shaklni sichqoncha bilan olib kelib xohlagan joyingizga harakatlatirishingiz mumkin.
+※ Foydali maslahat\) O’zgaruvchini qo’shsangiz ijro ekranida o’zgaruvchan shakl paydo bo’ladi. Bu o’zgaruvchan shaklni sichqoncha bilan olib kelib xohlagan joyingizga harakatlatirishingiz mumkin.
 
 ![](.gitbook/assets/007_006.png)
 
