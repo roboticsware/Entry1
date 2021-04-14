@@ -34,7 +34,7 @@ Ovoz chiqadigan qilib ovozni qo’shib ko’ramiz. “Ovoz” sahifasiga kirib �
 
 ### 6. Ko’rsichqonni urganingizda ball ko’payadigan qilib bajarmoqchi bo’lsangiz dasturga ballni saqlash mumkin bo’lgan joy kerak bo’ladi. Shuning uchun O’zgaruvchi “Ball”ni qo’shing.
 
-※ Fo’ydali maslahat\) O’zgaruvchini qo’shsangiz ijro ekranida o’zgaruvchan shakl paydo bo’ladi. Bu o’zgaruvchan shaklni sichqoncha bilan olib kelib xohlagan joyingizga harakatlatirishingiz mumkin.
+※ Foydali maslahat\) O’zgaruvchini qo’shsangiz ijro ekranida o’zgaruvchan shakl paydo bo’ladi. Bu o’zgaruvchan shaklni sichqoncha bilan olib kelib xohlagan joyingizga harakatlatirishingiz mumkin.
 
 ![](.gitbook/assets/007_006.png)
 
