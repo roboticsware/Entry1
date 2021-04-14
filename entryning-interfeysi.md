@@ -4,7 +4,7 @@
 
 ### Obyekt bu nima?
 
-Obyekt xuddi dunyodagi har bir mustaqil jismlarga o’xshashdir. Dasturiy dunyodagi obtektlarda ham mustaqillik mavjud. Entryda obyetlar deganda misol uchun har qahramonlar, hatto orqa fonlar, yozuvlar ham obyekt bo'lish mumkin. Har bir obyek o'zining blok kodlar\(buyruqlarning to'plami\)ga ega va ko'pincha o'zida bir nechta ko'rinish shakllariga ega bo'ladi. Bloklar oynadagi tasmali paneli ichidagi 'Shakl' bo'limini bosib blokning ko'rinish shaklini o’zgartirish mumkin.
+Obyekt xuddi dunyodagi har bir mustaqil jismlarga o’xshashdir. Dasturiy dunyodagi obyektlarda ham mustaqillik mavjud. Entryda obyetlar deganda misol uchun har qahramonlar, hatto orqa fonlar, yozuvlar ham obyekt bo'lish mumkin. Har bir obyek o'zining blok kodlar\(buyruqlarning to'plami\)ga ega va ko'pincha o'zida bir nechta ko'rinish shakllariga ega bo'ladi. Bloklar oynadagi tasmali paneli ichidagi 'Shakl' bo'limini bosib blokning ko'rinish shaklini o’zgartirish mumkin.
 
 ### 1. Ishga tushrilgan natija oynasi
 
