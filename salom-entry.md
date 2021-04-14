@@ -1,6 +1,6 @@
 # Salom, Entry!
 
-**E**la**ntry**, u dasturlashni o'rgatish uchun **Dasturlash tili**. Quyidagi rasmda ko’rsatilganidek '**Blok**\(buyruqlar\)' larni taxb tartib bilan bajaradigan dasturini yaratadi. Bloklarni taxlab dasturlash jarayoni '**Blok koding**' deb ataladi.
+**E**la**ntry**, u dasturlashni o'rgatish uchun **Dasturlash tili**. Quyidagi rasmda ko’rsatilganidek '**Blok**\(buyruqlar\)' larni tartib bilan bajaradigan dasturini yaratadi. Bloklarni taxlab dasturlash jarayoni '**Blok koding**' deb ataladi.
 
 ![](.gitbook/assets/1-blocks.png)
 
