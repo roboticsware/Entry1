@@ -24,11 +24,11 @@ Xazina qutisining parolini saqlaydigan joy – “Parol qiymati” degan o’zga
 
 ![](.gitbook/assets/006_004.png)
 
-O’yinlardagi “ball”, raqam daftarchasidagi “Mening ismim” ga o’xshagan ma’lumotlarni kompyuter yodida saqlashi uchun nima qilishimiz kerak? “O’zgaruvchi” shunaqa ma’lumotlarni saqlash mumkin bo’lgan joy. Xazina qutisini ochish uchun o’zingiz bosgan parol bilan “parol qiymati”ni solishtirishingiz kerak, tog’rimi? Shunaqa qilish uchun kompyuter parol qiymatini yodida saqlab turishi kerakligi sababli o’zgaruvchidan foydalaniladi. O’zgaruvchiga erkin ravishda nom qo’yishingiz mumkin. Masalan, hozir bizlar yasayotgan xazina qutisining algoritmida “Parol qiymati” – bu o’zgaruvchining nomi.Shuning dek ushbu o’zgaruvchi ichiga son yoki belgini bir marta bir donadan saqlashingiz mumkin.
+O’yinlardagi “ball”, raqam daftarchasidagi “Mening ismim” ga o’xshagan ma’lumotlarni kompyuter yodida saqlashi uchun nima qilishimiz kerak? “O’zgaruvchi” shunaqa ma’lumotlarni saqlash mumkin bo’lgan joy. Xazina qutisini ochish uchun o’zingiz bosgan parol bilan “parol qiymati”ni solishtirishingiz kerak, to'g’rimi? Shunaqa qilish uchun kompyuter parol qiymatini yodida saqlab turishi kerakligi sababli o’zgaruvchidan foydalaniladi. O’zgaruvchiga erkin ravishda nom qo’yishingiz mumkin. Masalan, hozir bizlar yasayotgan xazina qutisining algoritmida “Parol qiymati” – bu o’zgaruvchining nomi.Shuning dek ushbu o’zgaruvchi ichiga son yoki belgini bir marta bir donadan saqlashingiz mumkin.
 
 ### 4. Bizlar parolni bosganimizda qanday vaziyat kelib chiqadi? 
 
-Parolni tog’ri kiritsak xazina qutisini ochishimiz mumkin, notog’ri kiritsak parolni qaytadan kiritishimiz kerak bo’ladi. Bu ikki xil holatni avval o’rgangan “Shart” belgisidan foydalanib ifodalashimiz mumkin.
+Parolni to'g’ri kiritsak xazina qutisini ochishimiz mumkin, noto'g’ri kiritsak parolni qaytadan kiritishimiz kerak bo’ladi. Bu ikki xil holatni avval o’rgangan “Shart” belgisidan foydalanib ifodalashimiz mumkin.
 
 ![](.gitbook/assets/006_005.png)
 

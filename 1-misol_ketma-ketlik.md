@@ -26,7 +26,7 @@ Maktabda do’stlaringiz bilan rangli qog’ozdan narsalar yasab ko’rganmisiz?
 
 ![](.gitbook/assets/001_006.png)
 
-### 6. Mushukcha ham javoban salomlashishi uchun mushuk obyektini tanlang. Mushukcha kuchukchaga yuzma-yuz qaraydigan qilib ‘Ko’rınısh ’kategorıyasıdan “Chap va o'ng shaklni to’nkarish ” blokini olib keling.①
+### 6. Mushukcha ham javoban salomlashishi uchun mushuk obyektini tanlang. Mushukcha kuchukchaga yuzma-yuz qaraydigan qilib ‘Ko’rınısh ’kategorıyasıdan “Chap va ong shaklni to’nkarish ” blokini olib keling.①
 
 #### Kuchukcha 2 soniya davomida salomlashgani uchun mushukcha 2 soniya davomida navbatini kutadi.②
 
