@@ -40,3 +40,9 @@ Gulni yasash uchun bir nechta gul bargi kerak bo’ladi. Shuning uchun 《Gul ba
 
 ![](.gitbook/assets/002_006.png)
 
+#### ※ A**maliyot \(**[**https://bit.ly/2OKVJ6Y**](https://bit.ly/2OKVJ6Y)**\)**
+
+{% embed url="https://bit.ly/3egCUl5" %}
+
+
+

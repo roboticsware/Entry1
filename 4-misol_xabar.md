@@ -30,3 +30,9 @@ Buni yaratish uchun bugun ushbu darsda eng muhum tushuncha bo’lgan Xabar to'g�
 
 ![](.gitbook/assets/004_006.png)
 
+#### ※ Amaliyot \([https://bit.ly/3spYmcp](https://bit.ly/3spYmcp)\)
+
+{% embed url="https://bit.ly/2ONCQjZ" %}
+
+
+

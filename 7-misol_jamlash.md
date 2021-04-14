@@ -52,3 +52,11 @@ rezina bolgʻacha obyekti ro’yxatning eng yuqorisida joylashadigan qilib tepa 
 
 ![](.gitbook/assets/007_008.png)
 
+#### ※ Amaliyot \( [https://bit.ly/3dgCuf9](https://bit.ly/3dgCuf9) \)
+
+{% embed url="https://bit.ly/3mIY6E3" %}
+
+{% embed url="https://bit.ly/3mKYGkq" %}
+
+
+

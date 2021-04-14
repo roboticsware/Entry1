@@ -46,5 +46,11 @@ Maktabda do’stlaringiz bilan rangli qog’ozdan narsalar yasab ko’rganmisiz?
 
 ![](.gitbook/assets/001_010.png)
 
+####  ※ A**maliyot \(**[**https://bit.ly/3wTJR3I**](https://bit.ly/3wTJR3I)**\)**
+
+{% embed url="https://bit.ly/3wTJR3I" %}
+
+
+
 
 

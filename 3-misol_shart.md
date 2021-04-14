@@ -40,3 +40,9 @@ Shu joyda ozgina to’xtang. Oldindan yaratilgan changyutgich robotning yo’lin
 
 ![](.gitbook/assets/003_007.png)
 
+#### ※ Amaliyot \( [https://bit.ly/2RxSeC2](https://bit.ly/2RxSeC2) \)
+
+{% embed url="https://bit.ly/3siFrjB" %}
+
+
+

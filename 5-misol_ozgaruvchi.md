@@ -38,3 +38,9 @@ O’yinlardagi “ball”, raqam daftarchasidagi “Mening ismim” ga o’xshag
 
 ![](.gitbook/assets/005_006.png)
 
+※ Amaliyot \( [https://bit.ly/2PTELUN](https://bit.ly/2PTELUN) \)
+
+{% embed url="https://bit.ly/3wRF6I1" %}
+
+
+

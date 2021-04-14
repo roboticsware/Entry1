@@ -50,3 +50,9 @@ Parolni to'g’ri kiritsak xazina qutisini ochishimiz mumkin, noto'g’ri kirits
 
 ![](.gitbook/assets/006_008.png)
 
+#### ※ Amaliyot \( [https://bit.ly/3sm1hm1](https://bit.ly/3sm1hm1) \)
+
+{% embed url="https://bit.ly/3dgzJKH" %}
+
+
+
