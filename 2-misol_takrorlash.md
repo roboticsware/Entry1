@@ -4,7 +4,7 @@ description: Gul bargi bilan gul yasaymiz – Takrorlash
 
 # 2-misol\_"Takrorlash"
 
-O'tgan darsda ketma-ketlik haqida o'rgangan bo'lsangiz, ushbu darsda "Takrorlash" tushunchasi to'g’risida bilib olamiz. Yo'lda yurib borayotganingizda yo'l chetida chiroyli gullarni ko'rganmisiz? Agar e'tibor bergan bo'lsangiz , bir xil shakldagi barglar takrorlanib gulning markazida hosil bo'lgan. Ushbu darsda takrorlash tushunchasi orqali chiroyli gulni yasab ko’ramiz. Unday bo’lsa “Entry” orqali “Takrorlash”nı o’rganib ko’ramizmi?
+O'tgan darsda ketma-ketlik haqida o'rgangan bo'lsangiz, ushbu darsda "Takrorlash" tushunchasi tog’risida bilib olamiz. Yo'lda yurib bo'rayotganingizda yo'l chetida chiroyli gullarni ko'rganmisiz? Agar e'tibor bergan bo'lsangiz , bir xil shakldagi barglar takrorlanib gulning markazida hosil bo'lgan. Ushbu darsda takrorlash tushunchasi orqali chiroyli gulni yasab ko’ramiz. Unday bo’lsa “Entry” orqali “Takrorlash”nı o’rganib ko’ramizmi?
 
 ### 1. Pushti rang gul bargi obyektini qo'shing.
 
@@ -22,9 +22,9 @@ Shunga asoslanib, \[Cho'tka\] kategoriyasidagi "Pechat qo'yish" bloki bilan \[Ha
 
 ![](.gitbook/assets/002_003.png)
 
-### 3. Faqat ikkita gulning bargi bilan gul yasay olmaysiz, to'g'rimi? 
+### 3. Faqat ikkita gulning bargi bilan gul yasay olmaysiz, tog'rimi? 
 
-Gulni yasash uchun bir nechta gul bargi kerak bo’ladi. Shuning uchun 《Gul bargini Pechat》tugmasini 6 marta bosing.
+Gulni yasash uchun bir nechta gul bargi kerak bo’ladi. Shuning uchun 《Gul bargini chizish》tugmasini 6 marta bosing.
 
 ![](.gitbook/assets/002_004.png)
 

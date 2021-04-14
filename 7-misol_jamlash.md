@@ -18,7 +18,7 @@ Ko’ngil ochar joyida bir marta bo’lsa ham qilib ko’rgan o’yiningiz “Ko
 
 ### 3. Avvalo, “Ko’rsichqon” obyektini tanlaymiz. 
 
-“Ko’rsichqon” harakatga kelsagina rezina bolgʻacha bilan ko’rsichqonni urish zavqli, tog’rimi? Buning uchun ko’rsichqon shakli ko’rinish va bekinish amallarini qilishi kerak. Ko’rsichqon harakatsizlikdan chiqishi kerak, shuning uchun \[Hisob\] kategoriyasidagi “-dan -o’rtasida harakatsizlik” blokini qo’yamiz.
+“Ko’rsichqon” harakatga kelsagina rezina bolgʻacha bilan ko’rsichqonni urish zavqli, to'g’rimi? Buning uchun ko’rsichqon shakli ko’rinish va bekinish amallarini qilishi kerak. Ko’rsichqon harakatsizlikdan chiqishi kerak, shuning uchun \[Hisob\] kategoriyasidagi “-dan -o’rtasida harakatsizlik” blokini qo’yamiz.
 
 ![](.gitbook/assets/007_003.png)
 
