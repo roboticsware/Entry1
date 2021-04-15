@@ -56,9 +56,7 @@ rezina bolgʻacha obyekti ro’yxatning eng yuqorisida joylashadigan qilib tepa 
 
 {% embed url="https://bit.ly/3mIY6E3" %}
 
-{% embed url="https://youtu.be/6TZVnNr3V\_c" %}
-
 {% file src=".gitbook/assets/20210412-afandi-va-korsichqon.mp4" caption="20210412 Afandi va Ko’rsichqon" %}
 
-
+{% embed url="https://youtu.be/6TZVnNr3V\_c" %}
 
