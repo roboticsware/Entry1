@@ -4,7 +4,7 @@ description: O’zingizning rasm taxtangizni yasang – Xabar
 
 # 4-misol\_"Xabar"
 
-Dars vaqtida yoki kompyuter ishlatayotganingizda “Rasm taxtasi” degan dastur orqali bir marta bo’lsa ham rasm chizib yoki shunchaki chizmalab ko’rgan bo’lishingiz kerak. Ushbu darsda o’zingizning rasm taxtangizni o’zingiz yasab ko’rib “Xabar” haqida o’rganasiz.
+Dars vaqtida yoki kompyuter ishlatayotganingizda “Rasm taxtasi” degan dastur orqali bir marta bo’lsa ham rasm chizib yoki shunchaki chizmalab ko’rgan bo’lishingiz kerak. Ushbu darsda o’zingizning rasm taxtangizni o’zingiz yasab ko’rib _**“Xabar”**_ haqida o’rganasiz.
 
 ### 1. Ekranda “Qalam” va “O’chirg’ich” obyektlari berilgan.
 
@@ -18,9 +18,7 @@ Dars vaqtida yoki kompyuter ishlatayotganingizda “Rasm taxtasi” degan dastur
 
 ![](.gitbook/assets/004_003.png)
 
-### 4. Qalam orqali rasm chizib o’chirg’ich orqali o’chiradigan loyihani yaratib ko’ramiz. 
-
-Buni yaratish uchun bugun ushbu darsda eng muhum tushuncha bo’lgan Xabar to'g’risida o’rganamiz. “Xususiyat” sahifasini bosib “O’chir” degan xabarni qo’shamiz.
+### 4. Qalam orqali rasm chizib o’chirg’ich orqali o’chiradigan loyihani yaratib ko’ramiz. Buni yaratish uchun bugun ushbu darsda eng muhum tushuncha bo’lgan _"Xabar"_ to'g’risida o’rganamiz. Tasmali panelidagi “Xususiyat” bosib “O’chir” degan xabarni qo’shamiz.
 
 ![](.gitbook/assets/004_005.png)
 
