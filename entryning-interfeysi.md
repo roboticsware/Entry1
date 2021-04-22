@@ -10,7 +10,7 @@ Obyekt xuddi dunyodagi har bir mustaqil jismlarga o’xshashdir. Dasturiy dunyod
 
 Blok koding orqali dasturlashgan natijasi paydo bo’ladi. Yuqoridagi '+' tugmachani bir necha sahnalarni tashkil qilishingiz mumkin.
 
-### **2. Obyektlar ro'yxat** 
+### **2. Obyektlar ro'yxati** 
 
 Har bir sahnada ichda turgan hamma obyektlarning ro'yxati. Yuqoridagi '+' tugumachani bosib turli xil obyektlarni qo’shish mumkin.
 
