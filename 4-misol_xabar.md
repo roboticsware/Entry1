@@ -20,8 +20,6 @@ Dars vaqtida yoki kompyuter ishlatayotganingizda “Rasm taxtasi” degan dastur
 
 ### 4. Qalam orqali rasm chizib o’chirg’ich orqali o’chiradigan loyihani yaratib ko’ramiz. Buni yaratish uchun bugun ushbu darsda eng muhum tushuncha bo’lgan _"Xabar"_ to'g’risida o’rganamiz. Tasmali panelidagi \[Xususiyat\] ni tanlab “O’chir” degan xabarni qo’shamiz.
 
-### 4. Qalam orqali rasm chizib o'chirg’ich orqali o’chiradigan loyihani yaratib ko’ramiz. Buni yaratish uchun bugun ushbu darsda eng muhum tushuncha bo’lgan _"Xabar"_ to'g’risida o’rganamiz. Tasmali panelidagi “Xususiyat” bosib “O’chir” degan xabarni qo’shamiz.
-
 ![](.gitbook/assets/004_004.png)
 
 ![](.gitbook/assets/004_005.png)
