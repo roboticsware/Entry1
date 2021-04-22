@@ -14,7 +14,7 @@ Uyingizga kirgan paytingizda kalit o’rniga foydalaniladigan elektron qulfning 
 
 ![](.gitbook/assets/006_002.png)
 
-### 3. “Parol qiymati” o’zgaruvchisi ekranda ko’rsatilsa bo’lmaganligi sababli uni yashirib\(②\), xohlagan parol qiymatini tuzamiz.\(③\) Hamda parolni so'raydigan "~ni so'rab javobini kutish" blokini ketma-ket qo'yamiz.\(④\)
+### 3. “Parol qiymati” o’zgaruvchisi ekranda ko’rsatilsa bo’lmaganligi sababli uni yashirib\(②\), xohlagan parol qiymatini tuzamiz.\(③\) Hamda parolni so'raydigan "-ni so'rab javobini kutish" blokini ketma-ket qo'yamiz.\(④\)
 
 ![](.gitbook/assets/006_003.png)
 
@@ -28,7 +28,7 @@ O’zgaruvchiga erkin ravishda nom qo’yishingiz mumkin. Masalan, hozir bizlar 
 
 ![](.gitbook/assets/p.25_01-_-.png)
 
-### 5. Agar Parolni to'g’ri kiritgan paytingizda, qarsak ovozi bilan birga xazinaga ega bo’lganlik haqida bildiradigan gapni qo’shib ko’ramizmi? Tasmali penelidagi \[Ovoz\] ni tanlasangiz, oldindan “Qarsaklar”\(Standing Ovation\) ovozi bilan “Ogohlantiruvchi signal” \(Hazard Warning\) ovozi qo'shilgan. \[Ovoz\] kategoriyasining "~ ijro etish" blogi orqali qarsak ovozi chiqadigandek quyidagi kabi yig’ib ko’ramiz.
+### 5. Agar Parolni to'g’ri kiritgan paytingizda, qarsak ovozi bilan birga xazinaga ega bo’lganlik haqida bildiradigan gapni qo’shib ko’ramizmi? Tasmali penelidagi \[Ovoz\] ni tanlasangiz, oldindan “Qarsaklar”\(Standing Ovation\) ovozi bilan “Ogohlantiruvchi signal” \(Hazard Warning\) ovozi qo'shilgan. \[Ovoz\] kategoriyasining "- ijro etish" blogi orqali qarsak ovozi chiqadigandek quyidagi kabi yig’ib ko’ramiz.
 
 ![](.gitbook/assets/006_006.png)
 
