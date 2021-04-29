@@ -20,5 +20,7 @@
 
 ###       ****[**7-misol**](7-misol_jamlash.md)**: “Ko’rsichqon” o’yinini yaratib ko’ramiz – Jamlash**
 
+## **4.** [**Oxirigi xabar**](oxirgi-xabar.md)\*\*\*\*
+
 
 

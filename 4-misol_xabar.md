@@ -18,7 +18,7 @@ Dars vaqtida yoki kompyuter ishlatayotganingizda “Rasm taxtasi” degan dastur
 
 ![](.gitbook/assets/004_003.png)
 
-### 4. Qalam orqali rasm chizib o'chirg’ich orqali o’chiradigan loyihani yaratib ko’ramiz. Buni yaratish uchun bugun ushbu darsda eng muhum tushuncha bo’lgan _"Xabar"_ to'g’risida o’rganamiz. Tasmali panelidagi “Xususiyat” bosib “O’chir” degan xabarni qo’shamiz.
+### 4. Qalam orqali rasm chizib o’chirg’ich orqali o’chiradigan loyihani yaratib ko’ramiz. Buni yaratish uchun bugun ushbu darsda eng muhum tushuncha bo’lgan _"Xabar"_ to'g’risida o’rganamiz. Tasmali panelidagi \[Xususiyat\] ni tanlab “O’chir” degan xabarni qo’shamiz.
 
 ![](.gitbook/assets/004_004.png)
 
@@ -26,7 +26,7 @@ Dars vaqtida yoki kompyuter ishlatayotganingizda “Rasm taxtasi” degan dastur
 
  _Bizlar “O’chirg’ich” obyektini bosganimizda, “Qalam” chizgan rasmlarning barchasi o’chirilishi kerak. Shundan kelib chiqib, qalam obyekti bilan o’chirg’ich obyekti o’rtasida o’zaro ta’sir bo’lishi uchun xabar foydalaniladi._
 
-### 5. Quyida berilgan oxirgi kodga qarab, qalam va o’chirg’ich xabar  almashadigan uslub va rasm taxtasi qanday qilib namoyon bo’ladiganligini yana bir marotaba tekshirib ko’ramiz.
+### 5. Quyida berilgan oxirgi kodga qarab, qalam va o’chirg’ich orasida xabarni  almashadigan uslub va rasm taxtasi qanday qilib namoyon bo’ladiganligini yana bir marotaba tekshirib ko’ramiz.
 
 ![](.gitbook/assets/004_006.png)
 
