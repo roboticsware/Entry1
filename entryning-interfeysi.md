@@ -12,7 +12,7 @@ Blok koding orqali dasturlashgan natijasi paydo bo’ladi. Yuqoridagi '+' tugmac
 
 ### **2. Obyektlar ro'yxati** 
 
-Har bir sahnada ichda turgan hamma obyektlarning ro'yxati. Yuqoridagi '+' tugumachani bosib turli xil obyektlarni qo’shish mumkin.
+Har bir sahnada ichida turgan hamma obyektlarning ro'yxati. Yuqoridagi '+' tugumachani bosib turli xil obyektlarni qo’shish mumkin.
 
 ### 3. Bloklar
 
