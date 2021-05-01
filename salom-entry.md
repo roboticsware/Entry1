@@ -1,8 +1,8 @@
 # Salom, Entry!
 
-**E**la**ntry**, u dasturlashni o'rgatish uchun **Dasturlash tili**. Quyidagi rasmda ko’rsatilganidek '**Blok**\(Buyruqlar\)' larni tartib bilan bajaradigan dasturini yaratadi. Bloklarni taxlab dasturlash jarayoni '**Blok koding**' deb ataladi.
+**Entry**, u dasturlashni o'rgatish uchun **Dasturlash tili**. Quyidagi rasmda ko’rsatilganidek '**Blok**\(Buyruqlar\)' larni tartib bilan bajaradigan dasturini yaratadi. Bloklarni taxlab dasturlash jarayoni '**Blok koding**' deb ataladi.
 
-![](.gitbook/assets/1-blocks.png)
+![](.gitbook/assets/blocks.png)
 
 **Blok kodingning afzaligi shundaki**, bloklar yordamida murakkab dasturlash tilini bilmaydigan endi boshlaganlar ham dasturlash tamoyillari va asoslarini osongina tushunishlari va dasturlashlari mumkin.
 
@@ -12,7 +12,7 @@ _Entry mavjud qiyin dasturiy yondashuvni emas, sodda va osonlikcha qabul qilsa b
 
 ## Entryning yaxshi xislatlari
 
-### Entry ichki milliy obyetlar
+### Entry ichki milliy obyektlar
 
 Yosh bolalar yaxshi tanish milliy obyetlarni ishlatib qiziqarli dasturlash mumkin.
 
