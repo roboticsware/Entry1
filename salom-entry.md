@@ -2,7 +2,7 @@
 
 **Entry**, u dasturlashni o'rgatish uchun **Dasturlash tili**. Quyidagi rasmda ko’rsatilganidek '**Blok**\(Buyruqlar\)' larni tartib bilan bajaradigan dasturini yaratadi. Bloklarni taxlab dasturlash jarayoni '**Blok koding**' deb ataladi.
 
-![](.gitbook/assets/blocks.png)
+![](.gitbook/assets/entry_block.png)
 
 **Blok kodingning afzaligi shundaki**, bloklar yordamida murakkab dasturlash tilini bilmaydigan endi boshlaganlar ham dasturlash tamoyillari va asoslarini osongina tushunishlari va dasturlashlari mumkin.
 
