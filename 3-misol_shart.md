@@ -18,7 +18,7 @@ Changyutgich robotini ko'rganmisiz? Chang yutgich roboti oldinga qarab harakatla
 
 ![](.gitbook/assets/003_003.png)
 
-### 4. Changyutgich robot polni\(yerni\) davomiy tozalaydigan qilib \[Oqim\] kategoriyasidagi “Davomiy takrorlash” bloki bilan \[Harakat\] kategoriyasidagi “Harakat yo’nalishini – dan ko’chirish” blokidan foydalaning.
+### 4. Changyutgich robot polni\(yerni\) davomiy tozalaydigan qilib \[Oqim\] kategoriyasidagi “Davomiy takrorlash” bloki bilan \[Harakat\] kategoriyasidagi “Harakat yo’nalishiga – ni harakatlanish” blokidan foydalaning.
 
 ![](.gitbook/assets/003_004.png)
 
