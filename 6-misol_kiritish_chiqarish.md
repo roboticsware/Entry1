@@ -20,7 +20,7 @@ Uyingizga kirgan paytingizda kalit o’rniga foydalaniladigan elektron qulfning 
 
 ![](.gitbook/assets/006_004.png)
 
-O’yinlardagi “ball”, raqam daftarchasidagi “Mening ismim” ga o’xshagan ma’lumotlarni kompyuter xotirasida saqlashi uchun nima qilishimiz kerak? “O’zgaruvchi” shunaqa ma’lumotlarni saqlash mumkin bo’lgan joy. Xazina qutisini ochish uchun o’zingiz bosgan parol bilan oldin saqlab qo'ygan “parol qiymati”ni solishtirishingiz kerak, to'g’rimi? Shunaqa qilish uchun kompyuter parol qiymatini xotirasida saqlab turishi kerakligi sababli o’zgaruvchidan foydalaniladi. 
+O’yinlardagi “ball”, raqam daftarchasidagi “Mening ismim” ga o’xshagan ma’lumotlarni kompyuter xotirasida saqlashi uchun nima qilishimiz kerak? “O’zgaruvchi” shunaqa ma’lumotlarni saqlash mumkin bo’lgan joy. Xazina qutisini ochish uchun o’zingiz bosgan parol bilan oldin saqlab qo'ygan “Parol qiymati”ni solishtirishingiz kerak, to'g’rimi? Shunaqa qilish uchun kompyuter parol qiymatini xotirasida saqlab turishi kerakligi sababli o’zgaruvchidan foydalaniladi. 
 
 O’zgaruvchiga erkin ravishda nom qo’yishingiz mumkin. Masalan, hozir bizlar yasayotgan xazina qutisining algoritmida “Parol qiymati” – bu o’zgaruvchining nomi. Shuningdek ushbu o’zgaruvchi ichiga sonli yoki yozuvni bir marta bir donadan saqlashingiz mumkin.
 
