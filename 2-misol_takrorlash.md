@@ -12,7 +12,7 @@ O'tgan darsda _"Ketma-ketlik'"_haqida o'rgangan bo'lsangiz, ushbu darsda _"**Tak
 
 ### 2. Gulni yasash uchun gul bargining shakli bir xil bo'lib, lekin burchaklari\(gradusi\) farq qilishi kerak.  
 
-### Shunga asoslanib, \[Cho'tka\] kategoriyasidagi "Pechat qo'yish" bloki bilan \[Harakat\] kategoriyasidagi "Aylanishini - dan  aylantirish" blokini olib kelib, ketma-ket qo’yıng.
+### Shunga asoslanib, \[Cho'tka\] kategoriyasidagi "Pechat qo'yish" bloki bilan \[Harakat\] kategoriyasidagi "Aylanishga - ni qo'yish" blokini olib kelib, ketma-ket qo’yıng.
 
 ![](.gitbook/assets/002_002.png)
 
