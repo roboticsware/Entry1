@@ -4,7 +4,7 @@ description: Gul bargi bilan gul yasaymiz – Takrorlash
 
 # 2-misol\_"Takrorlash"
 
-O'tgan darsda _"Ketma-ketlik'"_haqida o'rgangan bo'lsangiz, ushbu darsda _"Takrorlash"_ tushunchasi to'g’risida bilib olamiz. Yo'lda yurib borayotganingizda yo'l chetida chiroyli gullarni ko'rganmisiz? Agar e'tibor bergan bo'lsangiz , bir xil shakldagi barglar takrorlanib gulning markazida hosil bo'lgan. Ushbu darsda takrorlash tushunchasi orqali chiroyli gulni yasab ko’ramiz. Unday bo’lsa “Entry” orqali _**"Takrorlash"**_ nı o’rganib ko’ramizmi?
+O'tgan darsda _"Ketma-ketlik'"_haqida o'rgangan bo'lsangiz, ushbu darsda _"**Takrorlash"**_ tushunchasi to'g’risida bilib olamiz. Yo'lda yurib borayotganingizda yo'l chetida chiroyli gullarni ko'rganmisiz? Agar e'tibor bergan bo'lsangiz , bir xil shakldagi barglar takrorlanib gulning markazida hosil bo'lgan. Ushbu darsda takrorlash tushunchasi orqali chiroyli gulni yasab ko’ramiz. Unday bo’lsa “Entry” orqali _**"Takrorlash"**_ nı o’rganib ko’ramizmi?
 
 ### 1. Pushti rang gul bargi obyektini qo'shing.
 
