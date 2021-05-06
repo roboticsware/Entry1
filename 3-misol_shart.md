@@ -4,7 +4,7 @@ description: Changyutgich roboti to’siqni uchratsa nima bo’ladi? - Shart
 
 # 3-misol\_"Shart"
 
-Changyutgich robotini ko'rganmisiz? Chang yutgich roboti oldinga qarab harakatlanayotganida to'siqni uchratsa, harakatini o'zgartiradi. Ushbu darsda _"Tanlash"_  tushunchasidan foydalanib, changyutgich robotiga xonaning burchaklarini tozalashda yordam berib ko’ramiz.
+Changyutgich robotini ko'rganmisiz? Chang yutgich roboti oldinga qarab harakatlanayotganida to'siqni uchratsa, harakatini o'zgartiradi. Ushbu darsda _**"Shart"**_  tushunchasidan foydalanib, changyutgich robotiga xonaning burchaklarini tozalashda yordam berib ko’ramiz.
 
 ### 1. Ekranda "Yog'och pol" orqa foni va "Chang yutgich robot" obyektini qo’yamiz.
 
