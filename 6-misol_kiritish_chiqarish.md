@@ -26,7 +26,7 @@ O’zgaruvchiga erkin ravishda nom qo’yishingiz mumkin. Masalan, hozir bizlar 
 
 ### 4. Bizlar parolni bosganimizda qanday vaziyat kelib chiqadi? Parolni to'g’ri kiritsak xazina qutisini ochishimiz mumkin, noto'g’ri kiritsak parolni qaytadan kiritishimiz kerak bo’ladi. Bu ikki xil holatni avval o’rgangan “Shart” blokidan foydalanib ifodalashimiz mumkin.
 
-![](.gitbook/assets/p.25_01-_-.png)
+![](.gitbook/assets/006_005.png)
 
 ### 5. Agar Parolni to'g’ri kiritgan paytingizda, qarsak ovozi bilan birga xazinaga ega bo’lganlik haqida bildiradigan gapni qo’shib ko’ramizmi? Tasmali penelidagi \[Ovoz\] ni tanlasangiz, oldindan “Qarsaklar”\(Standing Ovation\) ovozi bilan “Ogohlantiruvchi signal” \(Hazard Warning\) ovozi qo'shilgan. \[Ovoz\] kategoriyasining "- ijro etish" blogi orqali qarsak ovozi chiqadigandek quyidagi kabi yig’ib ko’ramiz.
 
