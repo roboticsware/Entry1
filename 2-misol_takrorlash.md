@@ -32,6 +32,8 @@ O'tgan darsda _"Ketma-ketlik'"_haqida o'rgangan bo'lsangiz, ushbu darsda _"**Tak
 
 ### 5. Sichqonchani bosganingizda gulning rangi o’zgarishi uchun mavjud bo’lgan gulni o’chiring.\(①\) \[Ko’rinish\] kategoriyasidan “Rang ta’sirini – dan berish” blokini olib kelib gulning rangini o’zgartirib ko’ring.\(②\)
 
+![](.gitbook/assets/002_006-1.png)
+
 #### ※ A**maliyot \(**[**https://bit.ly/2OKVJ6Y**](https://bit.ly/2OKVJ6Y)**\)**
 
 {% embed url="https://bit.ly/3egCUl5" %}
