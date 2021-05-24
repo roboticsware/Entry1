@@ -20,7 +20,7 @@ Yosh bolalar yaxshi tanish milliy obyetlarni ishlatib qiziqarli dasturlash mumki
 
 ### Python dasturlashga ko'prik
 
-Menudagi 'Entry Python' ni tanlab blok kodlarni Python tiliga aylantirib ko'rsatadi hamda u yerdan Python tilini ishlatib dasturlash mumkin. Entry ichida blok kodingdan boshlab haqiqiy dasturlash tiligacha o'tish mumkin.
+Menudagi 'Entry Python' ni tanlab blok kodlarini Python tiliga aylantirib ko'rsatadi hamda u yerdan Python tilini ishlatib dasturlash mumkin. Entry ichida blok kodingdan boshlab haqiqiy dasturlash tiligacha o'tish mumkin.
 
 ![](.gitbook/assets/python.png)
 
@@ -29,6 +29,8 @@ Menudagi 'Entry Python' ni tanlab blok kodlarni Python tiliga aylantirib ko'rsat
 Entrydagi Arduino uchun tayyor bo'lgan ichki bloklarni ishlatib Arduino ni blok koding orqali o'rganish mumkin. Entry ichida blok kodingdan boshlab haqiqiy qurilmani boshqaradigan dasturlashgacha ko'prik bo'lish mumkin.
 
 ![](.gitbook/assets/arduino-coding.png)
+
+Hamda Arduino bloklarini Arduino C++ tiliga aylantirish ikonini bosib Entry ichida blok kodingdan boshlab haqiqiy dasturlash tiligacha o'tish mumkin. Undan tashqari Arduino C++ tiliga aylantirish ikoni yonidagi kodlarni qurilmaga yuklab qo'yish ikonini boshib o'zingiz dasturlashgan kodlarini Arduino ichidagi xotirada saqlab qo'yish mumkin. Keyin Arduino Entry bilan aloqasiz saqlangan kodlar orqali bir o'zi ishlaydi.
 
 ![](.gitbook/assets/entry_arduino.png)
 
