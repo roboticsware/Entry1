@@ -30,6 +30,8 @@ Entrydagi Arduino uchun tayyor bo'lgan ichki bloklarni ishlatib Arduino ni blok 
 
 ![](.gitbook/assets/arduino-coding.png)
 
+![](.gitbook/assets/entry_arduino.png)
+
 ### Fizikal komputing uchun 60tadan ziyod qurilmalarni foydalanish
 
 Entry bilan 60tadan ziyod koding ta'lim uchun qurilmalarga ulanib dasturlashni o'rganish mumkin. Entry orqali qurilmalarni boshqaradigan dasturlashni o'rganish mumkin.
