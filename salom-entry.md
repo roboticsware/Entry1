@@ -12,7 +12,7 @@ _Entry mavjud qiyin dasturiy yondashuvni emas, sodda va osonlikcha qabul qilsa b
 
 ## Entryning yaxshi xislatlari
 
-### Entry ichki milliy obyektlar
+### Entry ichki milliy obyektlari
 
 Yosh bolalar yaxshi tanish milliy obyetlarni ishlatib qiziqarli dasturlash mumkin.
 
