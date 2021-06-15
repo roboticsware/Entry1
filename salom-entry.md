@@ -1,6 +1,6 @@
 # Salom, Entry!
 
-**Entry**, u dasturlashni o'rgatish yoki o'rganish uchun Koreyadan yaratilgan **Dasturlash tili**. Quyidagi rasmda ko’rsatilganidek '**Blok**\(Buyruqlar\)' larni taxlab dasturini yaratadi. Bloklarni taxlab dasturlash jarayoni '**Blok koding**' deb ataladi.
+**Entry**, u dasturlashni o'rgatish yoki o'rganish uchun Koreyadan yaratilgan **Dasturlash tili**\(EPL: Educational Programing Language\)dir. Quyidagi rasmda ko’rsatilganidek '**Blok**\(Buyruqlar\)' larni taxlab dasturini yaratadi. Entryga o'hshash dasturlashni o'rgatish yoki o'rganish uchun eng mashuhur darturlash tili [Scratch](https://scratch.mit.edu)dir. Bloklarni taxlab dasturlash jarayoni '**Blok koding**' deb ataladi.
 
 ![](.gitbook/assets/entry_block%20%281%29.png)
 
@@ -10,7 +10,7 @@
 
 _Entry mavjud qiyin dasturiy yondashuvni emas, sodda va osonlikcha qabul qilsa bo’ladigan dasturiy yondashuvni tanlashi orqali, endi boshlaganlar va yosh bolalar ham dasturlashni o’rgansa bo’ladigan muhitni yaratib beradi._
 
-## Entryning yaxshi xislatlari
+## Scratchdan ko'ra Entryning yaxshi xislatlari
 
 ### Entry ichki milliy obyektlari
 
